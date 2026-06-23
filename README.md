@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou a Patrinny Ataíde! 👋
 
-<!--
-**Ataide-ctrl/Ataide-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Engenheira Eletricista** e desenvolvo aplicações para **Sistemas Embarcados**. Atualmente, estou expandindo minhas fronteiras e  estudadno sobre **Machine Learning** e **Visão Computacional**.
 
-Here are some ideas to get you started:
+- 🛠️ Atualmente focada no desenvolvimento de firmware estável e arquitetura de IoT.
+- 🧠 Estudando modelos preditivos e processamento de imagem 
+- ✉️ Vamos conversar? [https://br.linkedin.com/in/patrinny-ata%C3%ADde-4a54a5204]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias & Caixa de Ferramentas
+
+| Área | Tecnologias, Linguagens e Frameworks |
+| :--- | :--- |
+| **Sistemas Embarcados** | C, C++, Microcontroladores (ESP32, STM32), RTOS, IoT, Protocolos (I2C, SPI, UART) |
+| **Inteligência Artificial** | Python, OpenCV |
+| **Ferramentas & Ambiente** | Git, Linux, Bash, Docker |
+
+
