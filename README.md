@@ -1,6 +1,6 @@
 # Olá, eu sou a Patrinny Ataíde! 👋
 
-Sou **Engenheira Eletricista** e desenvolvo aplicações para **Sistemas Embarcados**. Atualmente, estou expandindo minhas fronteiras e  estudadno sobre **Machine Learning** e **Visão Computacional**.
+Sou **Engenheira Eletricista** e desenvolvo aplicações para **Sistemas Embarcados**. Atualmente, estou expandindo minhas fronteiras e  estudando sobre **Machine Learning** e **Visão Computacional**.
 
 - 🛠️ Atualmente focada no desenvolvimento de firmware estável e arquitetura de IoT.
 - 🧠 Estudando modelos preditivos e processamento de imagem 
